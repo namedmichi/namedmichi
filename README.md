@@ -7,7 +7,7 @@ HTML, CSS, JS/TS, PHP, Python, Java, SQL
 ### Frameworks:
 Angular, React, Flask
 ### Sonstige:
-Docker, Jhipster, MariaDB, ChromaDB, Redis
+Docker, Linux, Jhipster, MariaDB, ChromaDB, Redis
 
 
 ## 🔗 Links
