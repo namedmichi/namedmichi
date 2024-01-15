@@ -34,4 +34,4 @@
 
 
 
-[![Daniel Stats](https://github-readme-stats.vercel.app/api?username=namedmichi&show_icons=true&count_private=y&hide_border=true&theme=github_dark)](https://github.com/namedmichi?tab=repositories)
+[![Michi Stats](https://github-readme-stats.vercel.app/api?username=namedmichi&show_icons=true&count_private=y&hide_border=true&theme=github_dark)](https://github.com/namedmichi?tab=repositories)
