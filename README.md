@@ -33,5 +33,5 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-selbertinger-259b05288)
 
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=namedmichi&theme=dark&hide_border=false)<br/>
 [![Michi Stats](https://github-readme-stats.vercel.app/api?username=namedmichi&show_icons=true&count_private=y&hide_border=true&theme=github_dark)](https://github.com/namedmichi?tab=repositories)
