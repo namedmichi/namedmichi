@@ -34,4 +34,4 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=namedmichi&theme=dark&hide_border=false)<br/>
-[![Michi Stats](https://github-readme-stats.vercel.app/api?username=namedmichi&show_icons=true&count_private=y&hide_border=true&theme=github_dark)](https://github.com/namedmichi?tab=repositories)
+![](https://github-readme-stats.vercel.app/api?username=namedmichi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
